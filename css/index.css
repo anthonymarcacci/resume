@@ -2,3 +2,12 @@
   font-style:italic;
   color: red;
 }
+
+.special {
+  font-weight: bold;
+  color: black;
+  font-family: arial
+}
+.align {
+  text-align:justify;
+}
